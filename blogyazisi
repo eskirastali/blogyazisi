@@ -1,0 +1,22 @@
+Bu bir blog yazısıdır, asla ödev değildir(!)
+
+İnsan, sürekli bir şeyler öğrenmesi gereken, öğrendiklerini de uygulaması gereken bir varlıktır. Ancak insanoğlu, matematik dilini keşfettiğinden beri ciddi anlamda zorluklar geçiriyor
+Özellikle son 30-40 yıllık öğrenime baktığımızda ciddi anlamda Matematikte zorlanmalar, edinilen bilgilerin günlük hayata aktarımı ve pragmatist toplumun serzenişleri, insanlardaki Matematik nefretini arttırdı.
+Ancak Dijital bilimler çıkmaya başladıkça, birçok şey de değişmeye başladı. Bugün sizlere , herhangi bir yerde kullanabileceğiniz matematiksel bir konudan bahsedeceğim: 
+ÜSLÜ SAYILAR
+
+Üslü sayılar, adı üstünde , bir sayının üstünde bir sayı varsa o sayı için söyleyebileceğiniz bir terimdir. Üslü sayılar aslında basit gibi görünen fakat altında yatan mantığı anladığınızda ufkunuzu açabilecek bir konudur.
+
+Üslü sayılar kısacası , altında olan değerin kendisi ile ne kadar çarpıldığını ifade eder.
+2^2 gibi 3^5 gibi değerlendirmelere sahiptir.
+2^3=2*2*2=8 gibi
+
+Ancak bir sayının üssü her zaman pozitif ve tam sayı olmak zorunda değildir. Mesela 2^(1/3) gibi bir değer bizlere ne ifade ettirir?
+Bu değer aslında çok basit gibi gözükür ancak bakın burası ÇOKOMELLİ!
+
+Üs eğer pozitif ve tam sayı ise : elimizde olan sayısı aslında genişletmiş oluruz.
+Üs eğer negatif ve tam sayı ise: elimizdeki sayısı genişletiyoruz ancak negatif olduğu için 1/sayı şeklinde yazmış oluyoruz. Bu da demek oluyor ki aslında biz üs vererek ,
+o sayısı parçalara bölmüş oluyoruz.
+Üs eğer kesirli bir değer ise: elimizdeki sayısının kökenlerine inmiş oluyoruz aslında. Elimizdeki sayı değeri kadar sayımızı daraltıyoruz.
+
+Umarım anlarsınız
